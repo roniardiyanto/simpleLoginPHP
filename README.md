@@ -7,6 +7,7 @@
 **Dibuat Dengan**: PHP, HTML, CSS.
 
 ## **PREVIEW**
+[Imgur](https://i.imgur.com/iceZC4a.gif)
 
 ## **CATATAN**
 
